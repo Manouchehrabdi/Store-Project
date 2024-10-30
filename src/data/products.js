@@ -182,6 +182,6 @@ export const products_data = [
 ];
 
 
-  export const products_categories = [{label:'Mobile',value:'mobile'},{label:'Tablet',value:'tablet'},{label:'Laptop',value:'laptop'}];
+  export const products_categories = [{label:'موبایل',value:'موبایل'},{label:'تبلت',value:'تبلت'},{label:'لپ تاپ',value:'لپ تاپ'}];
   
   
